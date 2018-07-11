@@ -1,0 +1,3 @@
+testlist.txt
+traininglist.txt
+里面的图片路径请注意修改
